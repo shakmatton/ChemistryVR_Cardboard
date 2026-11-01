@@ -1,3 +1,8 @@
+# ChemistryVR_Cardboard
+
+## Projeto de game educativo em VR para Cardboard, para a disciplina de Formação Empreendedora.
+Projeto baseado no teste VRBox1 (ver instruções dele abaixo).
+
 # VRBox1
 
 Projeto experimental desenvolvido em **Unity 6.4** para estudar o desenvolvimento de experiências de **Realidade Virtual (VR) em smartphones**, utilizando o **Google Cardboard XR Plugin** e dispositivos do tipo **VR Box**.
