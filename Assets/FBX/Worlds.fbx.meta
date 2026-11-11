@@ -5,6 +5,26 @@ ModelImporter:
   internalIDToNameTable: []
   externalObjects:
   - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: H2Olike_mat
+    second: {fileID: 2100000, guid: 35f7c7a1ba8e65345a03443b5a56191a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: H2like_mat
+    second: {fileID: 2100000, guid: bccd18bca0589cc4dae5094beed512b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: O2like_mat
+    second: {fileID: 2100000, guid: f4b7503e23ba3cd4a9c4e4296822872f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: earthlike_mat
+    second: {fileID: 2100000, guid: 53296f5f13232a440be122ec7f3055a6, type: 2}
+  - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Planet_Earth_Correct_tex
