@@ -3,7 +3,37 @@ guid: 153cc2209c07f8b4faefaa2d611abedd
 ModelImporter:
   serializedVersion: 24600
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bleu_with_Emission1
+    second: {fileID: 2100000, guid: d07891f0a28c99041af140fbecc1e1f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marron10
+    second: {fileID: 2100000, guid: 7e89707b78c7b97479cf53bd95af78a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SCREEN1
+    second: {fileID: 2100000, guid: 0772ab8295b19d5409dafcdbce37e71a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_for_screen11
+    second: {fileID: 2100000, guid: 9a45a4612047cbe438d621e6b2391da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 059f8c6528d9b7c419566ae1c307c050, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal17
+    second: {fileID: 2100000, guid: e461d5f22f77ddb428ae2ee8e6d7ac26, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
