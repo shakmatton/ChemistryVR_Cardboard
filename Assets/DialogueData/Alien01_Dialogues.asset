@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf61fcdb9120aa458474e60909204a0, type: 3}
+  m_Name: Alien01_Dialogues
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSet
+  customerId: alien_01
+  entries:
+  - id: intro
+    text: "Meu planeta est\xE1 seco e rugoso. Preciso que ele se torne um pouco mais \xFAmido, para eu poder desovar nele meus 500 filhos."
+  - id: success
+    text: "ISSO! Gostei, ficou muito bom! \nS\xF3 falta wifi."
+  - id: excess_o2
+    text: "Eu te pedi um planeta-floresta n\xE9...? Afinal, sou verde e devo ter cara de samambaia mesmo...  "
+  - id: excess_h2
+    text: "Por que um planeta gasoso? Eu j\xE1 flutuo cheio de g\xE1s, ent\xE3o pra qu\xEA mais?"
+  - id: excess_h2o
+    text: "Planeta-\xE1gua: \"um pouco \xFAmido\" virou \"playground completo para golfinhos\". Aham, compreens\xEDvel, tenha um bom dia..."

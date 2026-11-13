@@ -19,8 +19,8 @@ public class MenuUIController : MonoBehaviour
         instructionsPanel.SetActive(false);
         aboutPanel.SetActive(false);
 
-        Cursor.lockState = CursorLockMode.None;
-        Cursor.visible = true;
+        // Cursor.lockState = CursorLockMode.None;
+        // Cursor.visible = true;
     }
 
     public void ShowRules()
@@ -30,8 +30,8 @@ public class MenuUIController : MonoBehaviour
         instructionsPanel.SetActive(false);
         aboutPanel.SetActive(false);
 
-        Cursor.lockState = CursorLockMode.None;
-        Cursor.visible = true;
+        // Cursor.lockState = CursorLockMode.None;
+        // Cursor.visible = true;
     }
     
     public void ShowInstructions()
@@ -41,8 +41,8 @@ public class MenuUIController : MonoBehaviour
         instructionsPanel.SetActive(true);
         aboutPanel.SetActive(false);
 
-        Cursor.lockState = CursorLockMode.None;
-        Cursor.visible = true;
+        // Cursor.lockState = CursorLockMode.None;
+        // Cursor.visible = true;
     }
     
     public void ShowAbout()
@@ -52,7 +52,7 @@ public class MenuUIController : MonoBehaviour
         instructionsPanel.SetActive(false);
         aboutPanel.SetActive(true);
 
-        Cursor.lockState = CursorLockMode.None;
-        Cursor.visible = true;
+        // Cursor.lockState = CursorLockMode.None;
+        // Cursor.visible = true;
     }
 }
