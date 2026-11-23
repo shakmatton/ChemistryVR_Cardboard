@@ -11,7 +11,7 @@ public class DialogueController : MonoBehaviour
     
     private void Start()
     {
-        ShowDialogue("intro");
+        ShowDialogue("hello");
     }
 
     // Permite trocar o conjunto de diálogos futuramente.

@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueSet
   customerId: alien_01
   entries:
+  - id: hello
+    text: "Ol\xE1! Pode me atender? \nPreciso de sua ajuda com algo..."
   - id: intro
     text: "Meu planeta est\xE1 seco e rugoso. Preciso que ele se torne um pouco mais \xFAmido, para eu poder desovar nele meus 500 filhos."
   - id: success
